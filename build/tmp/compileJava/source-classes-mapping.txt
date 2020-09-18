@@ -1,0 +1,24 @@
+com/company/dev/productService/controller/BaseController.java
+ com.company.dev.productService.controller.BaseController
+com/company/dev/productService/dao/ProductCategory.java
+ com.company.dev.productService.dao.ProductCategory
+com/company/dev/productService/dao/ProductDetails.java
+ com.company.dev.productService.dao.ProductDetails
+com/company/dev/productService/repository/ProductCategoryInterface.java
+ com.company.dev.productService.repository.ProductCategoryInterface
+com/company/dev/productService/helper/ModelMappperGenerator.java
+ com.company.dev.productService.helper.ModelMappperGenerator
+com/company/dev/productService/repository/ProductDetailsInterface.java
+ com.company.dev.productService.repository.ProductDetailsInterface
+com/company/dev/productService/ProductServiceApplication.java
+ com.company.dev.productService.ProductServiceApplication
+com/company/dev/productService/dto/ProductCategoryDto.java
+ com.company.dev.productService.dto.ProductCategoryDto
+com/company/dev/productService/dto/ProductDetailsDto.java
+ com.company.dev.productService.dto.ProductDetailsDto
+com/company/dev/productService/response/ServiceResponse.java
+ com.company.dev.productService.response.ServiceResponse
+com/company/dev/productService/service/ProductManagerService.java
+ com.company.dev.productService.service.ProductManagerService
+com/company/dev/productService/controller/ProductDetailsController.java
+ com.company.dev.productService.controller.ProductDetailsController
